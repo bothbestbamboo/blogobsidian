@@ -1,13 +1,28 @@
 ---
-title: "Bamboo Bamboo Flooring Blogs"
+title: "Bothbest Bamboo Flooring Blog"
 ---
 
-### Recent Posts
+Welcome to our industrial bamboo sector insights. Here are our latest articles:
 
-```yaml
-- source: github:quartz-community/recent-notes
-  enabled: true
-  options:
-    limit: 10          # 限制只展示 10 篇最新博文
-    showTags: true     # 是否显示标签（可选）
-    showDate: true     # 是否显示发布日期（可选）
+---
+
+### 📂 [Solid vs Engineered Bamboo Flooring](Solid-vs-Engineered-Bamboo-Flooring)
+*📅 Published: 2026-06-21*
+
+Adopting an eco-conscious lifestyle no longer requires a premium price tag or endless searching in design shops. Discover the key differences between solid and engineered structures.
+
+---
+
+### 📂 [Ergonomic Standing & Bamboo Desktops](Ergonomic-Standing)
+*📅 Published: 2026-06-20*
+
+How integrating high-precision CNC machined bamboo table tops can revolutionize office health and corporate workspace environments.
+
+---
+
+### 📂 [Why Bamboo is Taking Over the Market](Why-Bamboo-is-Taking-Over)
+*📅 Published: 2026-06-16*
+
+An in-depth analysis of trade dynamics and why tropical climates are rapidly adopting sustainable bamboo flooring solutions.
+
+---
