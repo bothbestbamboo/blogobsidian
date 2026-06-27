@@ -6,6 +6,13 @@ Welcome to our industrial bamboo sector insights. Here are our latest articles:
 
 ---
 
+### 📂 [Weight Load Limits: Are Outdoor Bamboo Decks Safe to Build Under Heavy Hot Tubs](05-Are-Outdoor-Bamboo-Decks-Safe-to-Build-Under-Heavy-Hot-Tubs)
+*📅 Published: 2026-06-27*
+
+A successful project requires analyzing material density, structural weight distribution, and the physics of the framing system beneath the floorboards.
+
+---
+
 ### 📂 [Is Bamboo Flooring Scratch-Resistant? The Hard Truth for Dog and Cat Owners](04-Is-Bamboo-Flooring-Scratch-Resistant)
 *📅 Published: 2026-06-24*
 
