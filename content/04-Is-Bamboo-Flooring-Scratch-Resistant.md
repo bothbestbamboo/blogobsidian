@@ -1,9 +1,3 @@
----
-title: "Is Bamboo Flooring Scratch-Resistant? The Hard Truth for Dog and Cat Owners"
-date: 2026-06-24
-tags: "bamboo-flooring"
-description: "Living with dogs and cats brings immense joy, companionship, and dynamic energy to a household. However, it also introduces unique challenges to the preservation of your interior finishes."
----
 
 !['bamboo flooring'](https://gangsao.com/api/blob/images/949bd5eaea35bbd013899b3d3ef40ea5b1142aff.jpg)
 
