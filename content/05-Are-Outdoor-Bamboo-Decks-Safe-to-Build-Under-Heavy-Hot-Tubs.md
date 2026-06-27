@@ -5,7 +5,6 @@ tags: ["bamboo decking"]
 description: 'Determining whether a high-density strand surface can safely support a hot tub requires looking beyond simple surface durability. A successful project requires analyzing material density'
 ---
 
-# Weight Load Limits: Are Outdoor Bamboo Decks Safe to Build Under Heavy Hot Tubs
 
 !['bamboo decking'](https://img.bambooflooring.net/file/1782517607140_1-1PR315503U01.jpg)
 
