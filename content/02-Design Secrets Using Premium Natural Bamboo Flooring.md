@@ -1,8 +1,7 @@
 ---
 title: "The Luxury Look for Less: Design Secrets Using Premium Natural Bamboo Flooring"
 date: 2026-06-27
-tags: ["bamboo-plywood"]
-categories: ["bamboo"]
+tags: "bamboo-plywood"
 description: "High-end interior design has long been synonymous with exorbitant price tags and rare, imported materials. For generations, creating a space that exudes sophistication required a major investment in exotic hardwoods"
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: "Why Bamboo is Taking Over the Vanity Counter Market
 date: 2026-06-16
-tags: ["bamboog"]
-categories: ["bamboo"]
+tags: "bamboo"
 description: "A successful project requires analyzing material density, structural weight distribution, and the physics of the framing system beneath the floorboards."
 ---
 

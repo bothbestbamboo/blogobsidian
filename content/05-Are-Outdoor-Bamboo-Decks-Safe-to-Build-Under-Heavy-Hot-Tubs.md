@@ -1,8 +1,7 @@
 ---
 title: "Weight Load Limits: Are Outdoor Bamboo Decks Safe to Build Under Heavy Hot Tubs"
 date: 2026-06-27
-tags: ["bamboo-decking"]
-categories: ["bamboo"]
+tags: "bamboo-decking"
 description: "A successful project requires analyzing material density, structural weight distribution, and the physics of the framing system beneath the floorboards."
 ---
 
