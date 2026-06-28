@@ -1,5 +1,5 @@
 ---
-title: "Weight Load Limits: Are Outdoor Bamboo Decks Safe to Build Under Heavy Hot Tubs"
+title: "05 Weight Load Limits: Are Outdoor Bamboo Decks Safe to Build Under Heavy Hot Tubs"
 date: 2026-06-27
 tags: ["bamboo decking"]
 description: 'Determining whether a high-density strand surface can safely support a hot tub requires looking beyond simple surface durability. A successful project requires analyzing material density'

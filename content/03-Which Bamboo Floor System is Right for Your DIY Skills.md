@@ -1,5 +1,5 @@
 ---
-title: "Which Bamboo Floor System is Right for Your DIY Skills"
+title: "03 Which Bamboo Floor System is Right for Your DIY Skills"
 date: 2026-06-21
 tags: ["bamboo flooring"]
 description: 'Tackling a home renovation project brings a distinct sense of pride, especially when it comes to upgrading the surfaces you walk on every day. Choosing a sustainable, hard-wearing material ensures'
